@@ -1,4 +1,4 @@
-#HTML
+//HTML
 
 <html>
 <head>
@@ -10,7 +10,7 @@
   <h1>Texto</h1>
   </div>
   
-  #CSS
+  //CSS
   
   body {
   backround-color: red;
